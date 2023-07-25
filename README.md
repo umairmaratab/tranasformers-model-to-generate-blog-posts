@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# tranasformers-model-to-generate-blog-posts
 Hugging Face Transformers model is used to generate blogpost from a simple sentence.
 =======
 # Generate Blog Posts using Transformers Model
@@ -20,4 +18,3 @@ Working:
 * That decoded text is stored in a file
 
 <br>
->>>>>>> 381baba96c80b50cb27775b6592ddd4909726efd
